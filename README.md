@@ -12,7 +12,7 @@ This project provides a comprehensive analysis of the data science job market us
 * **Python** (Pandas, NumPy, Regex) for data cleaning and feature engineering
 * **Power BI** for interactive dashboard creation
 * **Jupyter Notebook** for exploratory data analysis
-* **Data Sources**: Glassdoor-style job postings dataset (simulated)
+* **Data Sources**: Glassdoor job postings dataset from Kaggle
 
 ---
 
@@ -84,14 +84,6 @@ df1.drop(['Extracted','Job Role1'], axis=1, inplace=True)
 * Ownership Type Distribution
 * Company Age Category Distribution
 
----
-
-## 📷 Dashboard Preview
-
-![Dashboard Part 1](./Screenshot%202025-06-02%20183737.png)
-![Dashboard Part 2](./Screenshot%202025-06-02%20183750.png)
-
----
 
 ## 🏁 Conclusion
 
@@ -109,7 +101,3 @@ This project showcases:
 * `Glassdoor.ipynb`: Data cleaning and preparation
 * `PowerBI Dashboard`: Visual insights and storytelling
 * `README.md`: Project overview
-
----
-
-Let me know if you'd like a downloadable `.md` version or if you'd like to add GitHub repo setup instructions or badges.
